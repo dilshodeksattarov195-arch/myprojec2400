@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenspdate",
+        "uuid": 18122400,
+        "checksum": "8j407p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
